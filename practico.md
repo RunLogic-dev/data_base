@@ -52,7 +52,7 @@
 - (Esta última podría ajustarse a ||--o{ si un instructor puede dar varias clases)
 
 # Modelo en SQL 
-![alt text](image.png)
+
 
 ```sql
 -- Crear la base de datos
